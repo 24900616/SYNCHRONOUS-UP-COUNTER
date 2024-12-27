@@ -37,6 +37,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.For different input combinations generate the timing diagram.
 
 **Truth Table**
+
 ![image](https://github.com/user-attachments/assets/a9ced086-9227-4a92-88e9-b99bec1bd21c)
 
 **PROGRAM**
